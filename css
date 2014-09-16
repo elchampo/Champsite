@@ -1,0 +1,30 @@
+CSS 
+<*/CSS for Christianchamp.com!*>
+
+h1 {
+	font-family: Arial;
+	font-weight: Bold;
+	text-align: left;
+	padding-top: 5px;
+	padding-bottom: 25px;
+	color: black;
+}
+
+h2 {
+    font-family: Arial; 
+    font-weight: Bold; 
+    text-align: left;
+    text-wrap: normal;
+}
+.img-with-text{
+    text-align: justify; 
+    width:200px;
+}
+.img-with-text img{
+    display: block;
+    margin: 0 auto; 
+}
+ul{
+    font-family: Arial; 
+    list-style: square ur
+}
