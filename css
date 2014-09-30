@@ -1,24 +1,41 @@
+
 CSS 
 <*/CSS for Christianchamp.com!*>
 
-h1 {
-	font-family: Arial;
-	font-weight: Bold;
-	text-align: left;
-	padding-top: 5px;
+.header h1{
+    font-family:Arial;
+    font-size:25px;
+    text-align:left;
+    padding-top: 5px;
 	padding-bottom: 25px;
 	color: black;
+    }
+.div img {
+    height:15px;
+    text-align:left;
+}
+.header h2{
+	font-family: Arial;
+	text-align: left;
+	padding-top: 5px 25px 10px 20px;
+	color: black;
+    font-size:8px;
+    float:left;
 }
 
-h2 {
-    font-family: Arial; 
-    font-weight: Bold; 
-    text-align: left;
-    text-wrap: normal;
+.container {
+    font-family: Arial;
+    font-weight:bold;
+    text-align:left;
+    text-wrap:all;
+}
+
+
+    
 }
 .img-with-text{
     text-align: justify; 
-    width:200px;
+    width:100px;
 }
 .img-with-text img{
     display: block;
@@ -26,5 +43,11 @@ h2 {
 }
 ul{
     font-family: Arial; 
-    list-style: square ur
+    list-style: square;
+}
+
+.main {
+    float:left;
+    margin:100px;
+    
 }
